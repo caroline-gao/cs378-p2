@@ -81,7 +81,7 @@ const menuItems = [
 
 const header = {
   name: "The Lucky Cat",
-  logo: "images/tlc.jpg",
+  logo: "tlc.jpg",
   desc: "Crafted by the master chef's paw",
 };
 
